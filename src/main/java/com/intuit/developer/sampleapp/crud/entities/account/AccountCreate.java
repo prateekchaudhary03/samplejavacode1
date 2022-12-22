@@ -13,7 +13,7 @@ import com.intuit.ipp.util.Logger;
 /**
  * Demonstrates methods to create account
  * 
- * @author dderose
+ * @author prateek
  *
  */
 public class AccountCreate {
